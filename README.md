@@ -1,3 +1,3 @@
-안녕하세요 이상훈입니다.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iri95)]
 
-싸피 9기 부울경 1반입니다.
+
